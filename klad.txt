@@ -1,0 +1,4 @@
+# When we press space bullets shoot
+	# x = spaceshuttle x
+# When we let loose of space no bullets are shot
+	# x = oldspaceshuttle x
